@@ -1,0 +1,11 @@
+ls → Lists files in the current directory
+cd → Change directory
+pwd → Shows your current path
+mkdir → Makes a new folder
+rm → Deletes files (careful with this one!)
+rmdir → Removes empty directories
+clear → Clears the terminal screen
+touch → Creates a new empty file
+cat → Displays content inside a file
+cp & mv → Copy and move files
+man → Opens the manual for any command
